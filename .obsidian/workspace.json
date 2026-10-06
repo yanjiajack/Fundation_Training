@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day6 Signal/1-6 Signal.md",
+                "file": "Day7 Network/1-7 Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-6 Signal"
+              "title": "1-7 Network"
             }
           }
         ]
@@ -199,10 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f4fcf5714dde1ab",
+  "active": "1d4fa67b5c5e9324",
   "lastOpenFiles": [
-    "Day6 Signal/test.md",
+    "Day1 git/1-1 Git.md",
+    "Day7 Network/1-7 Network.md",
+    "Day7 Network",
     "Day6 Signal/1-6 Signal.md",
+    "Day6 Signal/test.md",
     "Day3 FD/img/Pasted image 20260920233550.png",
     "Day3 FD/img/numbered-headings-icon.svg+xml",
     "Day3 FD/img/Mosaic_Smart_Designer.svg+xml",
@@ -230,7 +233,6 @@
     "Day6 Signal/img/numbered-headings-icon.svg+xml",
     "Day6 Signal/img/Mosaic_Smart_Designer.svg+xml",
     "Day6 Signal/img",
-    "Day6 Signal",
     "Day5 Process/1-5 Process.md",
     "Day4 MM/Yijun_AES tsrv实战.md",
     "Day4 MM/Day4 Practice.md",
@@ -240,7 +242,6 @@
     "Day4 MM/Day4 Learning.md",
     "Day4 MM/1-4 MM.md",
     "Day1 git/How to link VSCode with github.md",
-    "Day1 git/1-1 Git.md",
     "Day1 git/Day1.md",
     "Tech Materials/Wiki pages.md",
     "DeepLearning.md",
