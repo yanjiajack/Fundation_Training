@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ad3b0bf690c2428c",
+    "id": "8227e42a3f240a32",
     "type": "split",
     "children": [
       {
-        "id": "b14e2c3fe7f98481",
+        "id": "d731efe10edb0a05",
         "type": "tabs",
         "children": [
           {
-            "id": "1d4fa67b5c5e9324",
+            "id": "eb34abc73fc15aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day7 Network/1-7 Network.md",
+                "file": "Day5 Process/1-5 Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-7 Network"
+              "title": "1-5 Process"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f03349cea69574f7",
+    "id": "3087d0a214db69fb",
     "type": "split",
     "children": [
       {
-        "id": "5e59e48f7d5333f4",
+        "id": "55102d204b597575",
         "type": "tabs",
         "children": [
           {
-            "id": "e29309342730fce6",
+            "id": "6b82bd27780aca8b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "770b3339885dc9bf",
+            "id": "471172af1f54a217",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "9546219424780567",
+            "id": "3c295e02dc6f77f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +86,19 @@
     "width": 300
   },
   "right": {
-    "id": "02f9aa61db9f4700",
+    "id": "fbff05e0802108a6",
     "type": "split",
     "children": [
       {
-        "id": "f24d9a5884b43342",
+        "id": "66c2accc999677db",
         "type": "tabs",
         "children": [
           {
-            "id": "6a836b5b48304de0",
+            "id": "d49d38d4c4b4fe14",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day5 Process/1-5 Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +112,11 @@
             }
           },
           {
-            "id": "f1ac868b4361b41e",
+            "id": "eca958dc2659680c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day5 Process/1-5 Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +125,7 @@
             }
           },
           {
-            "id": "052064f6789d17cc",
+            "id": "f8c336158f7c5d78",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +140,7 @@
             }
           },
           {
-            "id": "68c3195d9dec8d70",
+            "id": "1c707c5138e734cd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +154,11 @@
             }
           },
           {
-            "id": "5fcfad1306142934",
+            "id": "c4de1c684e2788fe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day5 Process/1-5 Process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +168,7 @@
             }
           },
           {
-            "id": "2f4fcf5714dde1ab",
+            "id": "1949b61fbfbe4330",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -185,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5909423828125
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,53 +196,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d4fa67b5c5e9324",
+  "active": "eb34abc73fc15aa1",
   "lastOpenFiles": [
+    "Day6 Signal/test.md",
+    "Day7 Network/1-7 Network.md",
+    "Day7 Network",
     "Day5 Process/Day5 in advance.md",
     "Day5 Process/1-5 Process.md",
-    "Day4 MM/Day4 in_advance.md",
-    "Day7 Network/1-7 Network.md",
-    "Day1 git/1-1 Git.md",
-    "Day7 Network",
     "Day6 Signal/1-6 Signal.md",
-    "Day6 Signal/test.md",
-    "Day3 FD/img/Pasted image 20260920233550.png",
-    "Day3 FD/img/numbered-headings-icon.svg+xml",
-    "Day3 FD/img/Mosaic_Smart_Designer.svg+xml",
-    "Day3 FD/img/logo-black-16.png",
-    "Day3 FD/img/9-2.png",
-    "Day3 FD/img/9-2-1786411294175-5.png",
-    "Day3 FD/img/9-1.png",
-    "Day3 FD/img",
     "Day3 FD/Day3 Practice.md",
-    "Day3 FD/Day3 Learning.md",
-    "Day3 FD/about FD.md",
-    "Day3 FD/Day3 in_dvance.md",
+    "Day3 FD/img/Pasted image 20260920233550.png",
     "Day3 FD/1-3 FD.md",
-    "Day3 FD",
-    "Day2 GCC/img/image-20260720115000267.png",
-    "Day2 GCC/img/image-20260722092426224.png",
-    "Day2 GCC/img/image-20260720115112532.png",
-    "Day2 GCC/img/image-20260720114947403.png",
-    "Day2 GCC/img/image-20260718112509233.png",
-    "Day2 GCC/img",
-    "Day2 GCC/GCC explain.md",
-    "Day2 GCC/Day2 Practice.md",
+    "Day3 FD/Day3 Learning.md",
     "Day2 GCC/1-2 GCC.md",
-    "Day2 GCC",
-    "Day6 Signal/img/numbered-headings-icon.svg+xml",
-    "Day6 Signal/img/Mosaic_Smart_Designer.svg+xml",
-    "Day6 Signal/img",
-    "Day4 MM/Yijun_AES tsrv实战.md",
-    "Day4 MM/Day4 Practice.md",
-    "Day4 MM/MM_case_study.md",
-    "Day4 MM/task_struct.md",
-    "Day4 MM/Day4 Learning.md",
-    "Day4 MM/1-4 MM.md",
-    "Day1 git/How to link VSCode with github.md",
-    "Day1 git/Day1.md",
-    "Tech Materials/Wiki pages.md",
-    "DeepLearning.md",
-    "APIs.md"
+    "Day1 git/1-1 Git.md",
+    "未命名.base"
   ]
 }
