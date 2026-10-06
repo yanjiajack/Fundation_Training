@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day5 Process/Day5 in advance.md",
+                "file": "Day7 Network/1-7 Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day5 in advance"
+              "title": "1-7 Network"
             }
           }
         ]
@@ -198,8 +198,11 @@
   },
   "active": "eb34abc73fc15aa1",
   "lastOpenFiles": [
-    "Day7 Network/1-7 Network.md",
+    "Day7 Network/img/Pasted image 20261007070347.png",
+    "Day7 Network/img/Pasted image 20261007070307.png",
+    "Day7 Network/img",
     "Day5 Process/Day5 in advance.md",
+    "Day7 Network/1-7 Network.md",
     "Day5 Process/1-5 Process.md",
     "Day6 Signal/test.md",
     "Day7 Network",

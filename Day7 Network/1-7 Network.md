@@ -58,6 +58,7 @@ a.out     46396                        dadmin    3u     sock                0,9 
 
 To see sockets in action, we build a typical Client-Server model.
 
+![[Pasted image 20261007070307.png]]
 ### Key System Calls
 
 To achieve it, we need to understand a few Linux system calls
@@ -300,6 +301,8 @@ int main() {
 ```
 
 ## How the Linux Kernel Receives a Network Packet
+
+![[Pasted image 20261007070347.png]]
 
 ### 1. Packet Ingestion by the NIC
 
