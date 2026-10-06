@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day5 Process/1-5 Process.md",
+                "file": "Day6 Signal/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-5 Process"
+              "title": "test"
             }
           }
         ]
@@ -196,10 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb34abc73fc15aa1",
+  "active": "6b82bd27780aca8b",
   "lastOpenFiles": [
-    "Day6 Signal/1-6 Signal.md",
     "Day5 Process/1-5 Process.md",
+    "Day6 Signal/test.md",
+    "Day6 Signal/1-6 Signal.md",
     "Day3 FD/Day3 Practice.md",
     "Day3 FD/img/Pasted image 20260920233550.png",
     "Day3 FD/1-3 FD.md",
